@@ -7,6 +7,7 @@ using System.IO;
 using IniParser.Parser;
 using IniParser.Model;
 using static IniParser.Parser.StringBuffer;
+using Range = IniParser.Parser.StringBuffer.Range;
 
 namespace IniParser
 {
